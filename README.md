@@ -1,0 +1,2 @@
+# pytick
+python based ticker
