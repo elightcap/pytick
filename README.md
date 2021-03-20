@@ -1,2 +1,2 @@
 # pytick
-python based ticker
+python based stock ticker
